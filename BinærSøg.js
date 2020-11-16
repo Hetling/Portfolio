@@ -1,3 +1,5 @@
+//Implementering af en binær søgefunktion
+
 var doSearch = function(array, targetValue) {
 	var min = 0;
 	var max = array.length - 1;
